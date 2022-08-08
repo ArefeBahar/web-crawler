@@ -1,0 +1,362 @@
+{
+  "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cIn8pGEAAAAJ&citpid=10",
+  "name": "Ali Bohlooli",
+  "info": "Associate Prof., ,University of Isfahan, ( Email:   bohlooli@eng.ui.ac.ir   Phone: +98-31-37935622 )",
+  "tags": [
+    "Cyber-Physical Systems",
+    "Internet of Things",
+    "Network Security"
+  ],
+  "articles": [
+    {
+      "title": "Efficient CNTFET-based design of quaternary logic gates and arithmetic circuits",
+      "authors": "SA Ebrahimi, MR Reshadinezhad, A Bohlooli, M Shahsavari",
+      "journal": "Microelectronics Journal 53, 156-166, 2016",
+      "cited_by": "48",
+      "year": "2016"
+    },
+    {
+      "title": "A GPS-free method for vehicle future movement directions prediction using SOM for VANET",
+      "authors": "A Bohlooli, K Jamshidi",
+      "journal": "Applied Intelligence 36 (3), 685-697, 2012",
+      "cited_by": "46",
+      "year": "2012"
+    },
+    {
+      "title": "Efficient design and hardware implementation of the OpenFlow v1. 3 Switch on the Virtex-6 FPGA ML605",
+      "authors": "A Yazdinejad, A Bohlooli, K Jamshidi",
+      "journal": "The Journal of Supercomputing 74 (3), 1299-1320, 2018",
+      "cited_by": "31",
+      "year": "2018"
+    },
+    {
+      "title": "A high-performance framework for a network programmable packet processor using P4 and FPGA",
+      "authors": "A Yazdinejad, RM Parizi, A Bohlooli, A Dehghantanha, KKR Choo",
+      "journal": "Journal of Network and Computer Applications 156, 102564, 2020",
+      "cited_by": "25",
+      "year": "2020"
+    },
+    {
+      "title": "P4 to SDNet: Automatic Generation of an Efficient Protocol-Independent Packet Parser on Reconfigurable Hardware",
+      "authors": "A Yazdinejad, A Bohlooli, K Jamshidi",
+      "journal": "2018 8th International Conference on Computer and Knowledge Engineering�…, 2018",
+      "cited_by": "20",
+      "year": "2018"
+    },
+    {
+      "title": "Adaptive multi-flow opportunistic routing using learning automata",
+      "authors": "M Ghasemi, M Abdolahi, M Bag-Mohammadi, A Bohlooli",
+      "journal": "Ad Hoc Networks 25, 472-479, 2015",
+      "cited_by": "18",
+      "year": "2015"
+    },
+    {
+      "title": "Performance improvement and hardware implementation of Open Flow switch using FPGA",
+      "authors": "A Yazdinejad, A Bohlooli, K Jamshidi",
+      "journal": "2019 5th Conference on Knowledge Based Engineering and Innovation (KBEI�…, 2019",
+      "cited_by": "16",
+      "year": "2019"
+    },
+    {
+      "title": "Analytical modeling of multi-source content delivery in information-centric networks",
+      "authors": "SNS Hashemi, A Bohlooli",
+      "journal": "Computer Networks 140, 152-162, 2018",
+      "cited_by": "15",
+      "year": "2018"
+    },
+    {
+      "title": "Improve energy efficiency routing in WSN by using automata",
+      "authors": "E Hajian, K Jamshidi, A Bohlooli",
+      "journal": "International Journal of Ad hoc, Sensor & Ubiquitous Computing (IJASUC) 1 (2�…, 2010",
+      "cited_by": "13",
+      "year": "2010"
+    },
+    {
+      "title": "NEURAL NETWORK BASED PROTECTION OF SOFTWARE DEFINED NETWORK CONTROLLER AGAINST DISTRIBUTED DENIAL OF SERVICE ATTACKS",
+      "authors": "F Gharvirian, A Bohlooli",
+      "journal": "International Journal of Engineering TRANSACTIONS B 30 (11), 1714-1722, 2017",
+      "cited_by": "12",
+      "year": "2017"
+    },
+    {
+      "title": "Increasing WSN lifetime by using learning automata for optimal route selection",
+      "authors": "E Hajian, K Jamshidi, A Bohlooli",
+      "journal": "Information Networking and Automation (ICINA), 2010 International Conference�…, 2010",
+      "cited_by": "12",
+      "year": "2010"
+    },
+    {
+      "title": "Video quality analysis of distributed video coding in wireless multimedia sensor networks",
+      "authors": "M Nikzad, A Bohlooli, K Jamshidi",
+      "journal": "International Journal of Information Technology & Computer Science 7 (1), 12-20, 2014",
+      "cited_by": "10",
+      "year": "2014"
+    },
+    {
+      "title": "A survey on unmanned aerial vehicles-assisted internet of things: A service-oriented classification",
+      "authors": "R Pakrooh, A Bohlooli",
+      "journal": "Wireless Personal Communications 119 (2), 1541-1575, 2021",
+      "cited_by": "8",
+      "year": "2021"
+    },
+    {
+      "title": "An IIoT Based ICS to Improve Safety Through Fast and Accurate Hazard Detection and Differentiation",
+      "authors": "A Moradbeikie, K Jamshidi, A Bohlooli, J Garcia, X Masip-Bruin",
+      "journal": "IEEE access 8, 206942-206957, 2020",
+      "cited_by": "8",
+      "year": "2020"
+    },
+    {
+      "title": "A new design method for imperfection-immune CNFET-based circuit design",
+      "authors": "SA Ebrahimi, MR Reshadinezhad, A Bohlooli",
+      "journal": "Microelectronics Journal 85, 62-71, 2019",
+      "cited_by": "8",
+      "year": "2019"
+    },
+    {
+      "title": "Profile based routing in vehicular ad-hoc networks",
+      "authors": "A Bohlooli, K Jamshidi",
+      "journal": "Science China Information Sciences 57 (6), 1-11, 2014",
+      "cited_by": "8",
+      "year": "2014"
+    },
+    {
+      "title": "Energy-efficient face detection and recognition scheme for wireless visual sensor networks",
+      "authors": "A Zam, MR Khayyambashi, A Bohlooli",
+      "journal": "Applied Soft Computing 89, 106014, 2020",
+      "cited_by": "7",
+      "year": "2020"
+    },
+    {
+      "title": "DEEM: A Decentralized and Energy Efficient Method for detecting sinkhole attacks on the internet of things",
+      "authors": "SR Taghanaki, K Jamshidi, A Bohlooli",
+      "journal": "2019 9th International Conference on Computer and Knowledge Engineering�…, 2019",
+      "cited_by": "7",
+      "year": "2019"
+    },
+    {
+      "title": "Energy-aware strategy for collaborative target-detection in wireless multimedia sensor network",
+      "authors": "A Zam, MR Khayyambashi, A Bohlooli",
+      "journal": "Multimedia Tools and Applications 78 (13), 18921-18941, 2019",
+      "cited_by": "7",
+      "year": "2019"
+    },
+    {
+      "title": "Statistical based algorithm for reducing bit stuffing in the Controller Area Networks",
+      "authors": "R Alaei, P Moallem, A Bohlooli",
+      "journal": "Microelectronics Journal 101, 104794, 2020",
+      "cited_by": "6",
+      "year": "2020"
+    },
+    {
+      "title": "Opportunistic networking: Vehicular, D2D and cognitive radio networks",
+      "authors": "N Siddique, SF Hasan, SMS Zabir",
+      "journal": "CRC Press, 2017",
+      "cited_by": "6",
+      "year": "2017"
+    },
+    {
+      "title": "Performance evaluation of error control schemes for distributed video coding over wireless multimedia sensor networks",
+      "authors": "M Nikzad, A Bohlooli, K Jamshidi",
+      "journal": "Multimedia Tools and Applications 77 (15), 19547–19568, 2018",
+      "cited_by": "5",
+      "year": "2018"
+    },
+    {
+      "title": "Medium access control layer management for saving energy in wireless sensor networks routing algorithms",
+      "authors": "K Arabi, A Bohlooli",
+      "journal": "Journal of the Chinese Institute of Engineers 39 (4), 493-497, 2016",
+      "cited_by": "5",
+      "year": "2016"
+    },
+    {
+      "title": "A Responsibility-based Transport Control for Named Data Networking",
+      "authors": "M Nikzad, K Jamshidi, A Bohlooli",
+      "journal": "Future Generation Computer Systems 106, 518-533, 2020",
+      "cited_by": "4",
+      "year": "2020"
+    },
+    {
+      "title": "Analytical characterization of cache replacement policy impact on content delivery time in information‐centric networks",
+      "authors": "SN Seyyed Hashemi, A Bohlooli",
+      "journal": "International Journal of Communication Systems 32 (18), e4154, 2019",
+      "cited_by": "4",
+      "year": "2019"
+    },
+    {
+      "title": "Analytical characterization of cache replacement policy impact on content delivery time in information‐centric networks",
+      "authors": "SN Seyyed Hashemi, A Bohlooli",
+      "journal": "International Journal of Communication Systems 32 (18), e4154, 2019",
+      "cited_by": "4",
+      "year": "2019"
+    },
+    {
+      "title": "A thermal-aware energy-efficient virtual machine placement algorithm based on fuzzy controlled binary gravitational search algorithm (FC-BGSA)",
+      "authors": "A Aghasi, K Jamshidi, A Bohlooli",
+      "journal": "Cluster Computing 25 (2), 1015-1033, 2022",
+      "cited_by": "2",
+      "year": "2022"
+    },
+    {
+      "title": "3CP: Coordinated Congestion Control Protocol for Named-Data Networking",
+      "authors": "SNS Hashemi, A Bohlooli",
+      "journal": "IEEE Transactions on Network and Service Management 18 (3), 3918-3932, 2021",
+      "cited_by": "2",
+      "year": "2021"
+    },
+    {
+      "title": "An adaptive, cross layer error control scheme for Distributed Video Coding over Wireless Multimedia Sensor Networks",
+      "authors": "M Nikzad, A Bohlooli, K Jamshidi",
+      "journal": "Multimedia Tools and Applications 79 (43), 32999-33021, 2020",
+      "cited_by": "2",
+      "year": "2020"
+    },
+    {
+      "title": "Introducing a method for improving the performance of routing algorithms in unmanned aeronautical ad-hoc networks",
+      "authors": "M Kardoust, MR Khayyambashi, A Bohlooli",
+      "journal": "Information and Knowledge Technology (IKT), 2017 9th International Conference on, 2017",
+      "cited_by": "2",
+      "year": "2017"
+    },
+    {
+      "title": "EOpR: An opportunistic routing algorithm for ad-hoc networks",
+      "authors": "S Shabani, N Moghim, A Bohlooli",
+      "journal": "2015 5th International Conference on Computer and Knowledge Engineering�…, 2015",
+      "cited_by": "2",
+      "year": "2015"
+    },
+    {
+      "title": "Increasing the Efficiency of IDS Systems by Hardware Implementation of Packet Capturing.",
+      "authors": "Z Latifi, K Jamshidi, A Bohlooli",
+      "journal": "International Journal of Computer Network & Information Security 5 (10), 2013",
+      "cited_by": "2",
+      "year": "2013"
+    },
+    {
+      "title": "Data reduction using clustering method in wireless sensor network",
+      "authors": "S Mirshams, K Jamshidi, A Bohlooli, A Dehghani",
+      "journal": "Ultra Modern Telecommunications & Workshops, 2009. ICUMT'09. International�…, 2009",
+      "cited_by": "2",
+      "year": "2009"
+    },
+    {
+      "title": "A Decentralized Method for Detecting Clone ID Attacks on the Internet of Things",
+      "authors": "SR Taghanaki, SB Arzandeh, A Bohlooli",
+      "journal": "2021 5th International Conference on Internet of Things and Applications�…, 2021",
+      "cited_by": "1",
+      "year": "2021"
+    },
+    {
+      "title": "Statistical Based Algorithm for Reducing Residual Error in Embedded Systems Implemented Using the Controller Area Network",
+      "authors": "R Alaei, P Moallem, A Bohlooli",
+      "journal": "IEEE Access 8, 133817-133826, 2020",
+      "cited_by": "1",
+      "year": "2020"
+    },
+    {
+      "title": "A Fog Based Approach for Hazards Differentiation in an IIoT Scenario",
+      "authors": "A Moradbeikie, K Jamshidi, A Bohlooli, J Garcia, X Masip-Bruin",
+      "journal": "2020 5th International Conference on Computer and Communication Systems�…, 2020",
+      "cited_by": "1",
+      "year": "2020"
+    },
+    {
+      "title": "Detecting the vehicle direction changes for routing algorithms and applications of vehicular ad hoc networks",
+      "authors": "A Bohlooli, K Jamshidi",
+      "journal": "IEEJ Transactions on Electrical and Electronic Engineering 7 (3), 329-333, 2012",
+      "cited_by": "1",
+      "year": "2012"
+    },
+    {
+      "title": "Fog-based caching mechanism for IoT data in information centric network using prioritization",
+      "authors": "MS Zahedinia, MR Khayyambashi, A Bohlooli",
+      "journal": "Computer Networks, 109082, 2022",
+      "cited_by": "",
+      "year": "2022"
+    },
+    {
+      "title": "An accurate retransmission timeout estimator for content-centric networking based on the Jacobson algorithm",
+      "authors": "M Nikzad, K Jamshidi, A Bohlooli, FM Faqiry",
+      "journal": "Digital Communications and Networks, 2022",
+      "cited_by": "",
+      "year": "2022"
+    },
+    {
+      "title": "Distributed Rule Anomaly Detection in SDN-based IoT",
+      "authors": "R Kiani, A Bohlooli",
+      "journal": "2021 5th International Conference on Internet of Things and Applications�…, 2021",
+      "cited_by": "",
+      "year": "2021"
+    },
+    {
+      "title": "An Accelerated Method for Rules Anomaly Detection in Software Defined Networks",
+      "authors": "R Kiani, A Bohlooli",
+      "journal": "Electronic and Cyber Defense 8 (4), 31-39, 2021",
+      "cited_by": "",
+      "year": "2021"
+    },
+    {
+      "title": "Searchable Encryption Token Extraction for Deep Packet Inspection over Compressed HTTPS",
+      "authors": "Z Eskandari, M Kaedi, A Bohlooli",
+      "journal": "TABRIZ JOURNAL OF ELECTRICAL ENGINEERING 50 (3), 1011-1023, 2020",
+      "cited_by": "",
+      "year": "2020"
+    },
+    {
+      "title": "A Model-Driven Approach for IoT-Based Monitoring Systems in Industry 4.0",
+      "authors": "M Ziaei, B Zamani, A Bohlooli",
+      "journal": "2020 4th International Conference on Smart City, Internet of Things and�…, 2020",
+      "cited_by": "",
+      "year": "2020"
+    },
+    {
+      "title": "Hybrid Naming Scheme Based PURSUIT Architecture for Smart City",
+      "authors": "A Javaheri, SNS Hashemi, A Bohlooli",
+      "journal": "2020 4th International Conference on Smart City, Internet of Things and�…, 2020",
+      "cited_by": "",
+      "year": "2020"
+    },
+    {
+      "title": "A Review on Website Fingerprinting Attacks",
+      "authors": "M Taebi, A Bohlooli, M Kaedi",
+      "journal": "Biannual Journal Monadi for Cyberspace Security (AFTA) 6 (2), 51-64, 2018",
+      "cited_by": "",
+      "year": "2018"
+    },
+    {
+      "title": "Improving the Lifetime of Clustering-Based Wireless Sensor Networks by Considering the Conditional Dependencies in Inter-Cluster Routing",
+      "authors": "A Bohlooli",
+      "journal": "International Journal of Artificial Intelligence™ 16 (1), 41-59, 2018",
+      "cited_by": "",
+      "year": "2018"
+    },
+    {
+      "title": "Opportunistic Vehicular Communication: Challenges and Solutions",
+      "authors": "A Bohlooli",
+      "journal": "Opportunistic Networking, 83-122, 2017",
+      "cited_by": "",
+      "year": "2017"
+    },
+    {
+      "title": "An Energy-Aware Data-Gathering Protocol Based on Clustering using AUV in Underwater Sensor Networks.",
+      "authors": "R MotahariNasab, A Bohlooli, N Moghim",
+      "journal": "International Journal of Computer Network & Information Security 8 (12), 2016",
+      "cited_by": "",
+      "year": "2016"
+    },
+    {
+      "title": "Proposing an Optimal Model for Localization in Query Based Wireless Sensor Networks",
+      "authors": "H Bohlooli, K Jamshidi, A Bohlooli",
+      "journal": "2009 Fifth International Conference on MEMS NANO, and Smart Systems, 50-55, 2009",
+      "cited_by": "",
+      "year": "2009"
+    },
+    {
+      "title": "SELECT OF OPTIMAL SLEEP STATE IN ADAPTIVE SMAC USING DPM",
+      "authors": "E Hajian, K Jamshidi, A Bohlooli",
+      "journal": "International Journal on Computer Science and Engineering 1 (2), 1763-1767, 0",
+      "cited_by": "",
+      "year": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <div>
+            <div>
+                <label for="id">Id:</label>
+                <input type="text" id="id"><br>
+                <button onclick="fetchData()">Submit</button>
+            </div>
+            <p id="error_message">Something went wrong, check id and try again</p>
+        </div>
+        <div class="container">
+            <div class="info">
+                <img src="" alt="" id="Image">
+                <h1 id="head"></h1>
+                <p id="inf"></p>
+                <p id="tags"></p>
+            </div>
+            <div id="articles"></div>
+        </div>
+    </main>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
